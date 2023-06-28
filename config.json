@@ -1,0 +1,16 @@
+{
+  "title": "Grube Kopanie configaration's file edit on your own risk'",
+
+  "profiles": {
+    "profile1": {
+      "pickaxeSlot": "1",
+      "foodSlot": "-1",
+      "roomLength": "8",
+      "commands": {
+        "/sellall": "1",
+        "/repair all": "3",
+        "/feed" : "15"
+      }
+    }
+  }
+}
